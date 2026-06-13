@@ -60,7 +60,7 @@ The main goal of this project is to:
 ## 📬 Contact
 
 - GitHub: https://github.com/vijaydevverse
-- 
+
 ---
 
 ## 🏷️ About (GitHub Sidebar Description)
